@@ -1,0 +1,10 @@
+Generic Launcher
+================
+
+Ryan Pavlik - <rpavlik@iastate.edu> - <http://academic.cleardefinition.com>
+
+This is the stub of a tool arising out of the need that led to [this StackOverflow post][sopost]. I've included the [Balsamiq][balsamiq] mockup ("BMML") source for the mockup I posted to that question.
+
+
+[sopost]:http://stackoverflow.com/questions/8084840/universal-program-argument-environment-gui-launcher
+[balsamiq]:http://balsamiq.com/

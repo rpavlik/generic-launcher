@@ -1,0 +1,188 @@
+<mockup version="1.0" skin="sketch" measuredW="1031" measuredH="830" mockupW="1027" mockupH="830">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="157" y="0" w="508" h="772" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Launcher</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="__group__" x="181" y="140" w="460" h="204" measuredW="460" measuredH="204" zOrder="2" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="460" h="204" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Environment%20Variables</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="117" y="169" w="330" h="29" measuredW="327" measuredH="29" zOrder="1" locked="false" isInGroup="18">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>Single%20Directory%2C%20Multiple%20Directories%2C%20String</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="21" y="172" w="-1" h="-1" measuredW="83" measuredH="21" zOrder="2" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Add%20Env.%20Var%3A</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::DataGrid" x="21" y="15" w="424" h="115" measuredW="400" measuredH="115" zOrder="3" locked="false" isInGroup="18">
+          <controlProperties>
+            <text>Variable%20Name%2CType%2CValue%0AVJ_BASE_DIR%2CSingle%20Directory%2Cc%3A%5Cvrj30%0AVPR_DEBUG_LVL%2CString%2C5%0AOSG_DATA_PATH%2CMultiple%20Directories%2Cc%3A%5Cmodels%3Bc%3A%5Cosgdata</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::ButtonBar" x="128" y="130" w="-1" h="-1" measuredW="314" measuredH="29" zOrder="4" locked="false" isInGroup="18">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>-Edit-%2C%20-Remove-%2C-Move%20Up-%2C-Move%20Down-</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::Button" x="458" y="679" w="181" h="54" measuredW="64" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Launch</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::ButtonBar" x="181" y="25" w="-1" h="-1" measuredW="438" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Open%20Launcher%20Config%2C%20Save%20Launcher%20Config%2C%20Export%20Script</text>
+      </controlProperties>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="181" y="509" w="460" h="170" measuredW="460" measuredH="170" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="460" h="170" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>Arguments</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="126" y="104" w="-1" h="-1" measuredW="314" measuredH="29" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>-Edit-%2C%20-Remove-%2C-Move%20Up-%2C-Move%20Down-</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="15" y="16" w="432" h="81" measuredW="100" measuredH="126" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>c%3A%5Cvrj30%5Cbin%0Ac%3A%5Cvrj30%5Clib%0Ac%3A%5Cmyproj%5CRelease</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="110" y="133" w="330" h="29" measuredW="286" measuredH="29" zOrder="3" locked="false" isInGroup="25">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>Add%20String%2C%20Add%20Directory%2C%20Add%20File</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="26" controlTypeID="__group__" x="181" y="353" w="460" h="156" measuredW="460" measuredH="156" zOrder="3" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="460" h="156" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>Dynamic%20Library%20Locations</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::List" x="15" y="16" w="432" h="81" measuredW="100" measuredH="126" zOrder="1" locked="false" isInGroup="26">
+          <controlProperties>
+            <text>c%3A%5Cvrj30%5Cbin%0Ac%3A%5Cvrj30%5Clib%0Ac%3A%5Cmyproj%5CRelease</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::ButtonBar" x="79" y="108" w="-1" h="-1" measuredW="366" measuredH="29" zOrder="2" locked="false" isInGroup="26">
+          <controlProperties>
+            <selectedIndex>-1</selectedIndex>
+            <text>Add%2C%20-Edit-%2C%20-Remove-%2C-Move%20Up-%2C-Move%20Down-</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="27" controlTypeID="__group__" x="181" y="81" w="455" h="52" measuredW="455" measuredH="52" zOrder="1" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="455" h="28" measuredW="455" measuredH="28" zOrder="0" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="__group__" x="108" y="0" w="347" h="28" measuredW="347" measuredH="28" zOrder="0" locked="false" isInGroup="0">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="1" w="271" h="-1" measuredW="155" measuredH="27" zOrder="0" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>c%3A%5Cwhatever%5Cbin%5Capp.exe</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="271" y="0" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="1" locked="false" isInGroup="0">
+                  <controlProperties>
+                    <text>Browse...</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="0" y="4" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <text>Executable</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="1" controlTypeID="__group__" x="0" y="24" w="455" h="28" measuredW="455" measuredH="28" zOrder="1" locked="false" isInGroup="27">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="0" y="4" w="-1" h="-1" measuredW="108" measuredH="21" zOrder="0" locked="false" isInGroup="1">
+              <controlProperties>
+                <text>Working%20Directory</text>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="__group__" x="108" y="0" w="347" h="28" measuredW="347" measuredH="28" zOrder="1" locked="false" isInGroup="1">
+              <groupChildrenDescriptors>
+                <control controlID="0" controlTypeID="com.balsamiq.mockups::TextInput" x="0" y="1" w="271" h="-1" measuredW="84" measuredH="27" zOrder="0" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>c%3A%5Cwhatever</text>
+                  </controlProperties>
+                </control>
+                <control controlID="1" controlTypeID="com.balsamiq.mockups::Button" x="271" y="0" w="-1" h="-1" measuredW="76" measuredH="27" zOrder="1" locked="false" isInGroup="1">
+                  <controlProperties>
+                    <text>Browse...</text>
+                  </controlProperties>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::VCurly" x="665" y="20" w="180" h="38" measuredW="180" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>optional%20but%20would%20be%20nice</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::VCurly" x="671" y="359" w="180" h="150" measuredW="180" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Used%20to%20append%20to%20%25PATH%25%20or%20%24%7BLD_LIBRARY_PATH%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::VCurly" x="851" y="353" w="180" h="320" measuredW="180" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Drag%20to%20change%20order%2C%20and%20double%20click%20to%20edit%2C%20would%20be%20slick</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::StickyNote" x="625" y="707" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Would%20be%20good%20if%20the%20launcher%20stayed%20open%20after%20launching%2C%20in%20many%20cases.</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Arrow" x="54" y="327" w="233" h="174" measuredW="150" measuredH="100" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>1</curvature>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Arrow" x="54" y="558" w="233" h="100" measuredW="150" measuredH="100" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <curvature>-1</curvature>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::StickyNote" x="4" y="453" w="131" h="137" measuredW="109" measuredH="123" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>The%20type%20is%20just%20to%20provide%20a%20easy%20and%20appropriate%20editing%20interface</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
